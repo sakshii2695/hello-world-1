@@ -1,4 +1,4 @@
 # hello-world
 This is my first repo
 Hey There!
-This is tanmay, from MCA first year.
+This is urja, from Hansraj College second year.
